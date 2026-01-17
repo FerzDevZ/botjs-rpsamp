@@ -95,3 +95,29 @@ GUILD_ID=id_server_discord
 ---
 **Developed for Nusantara Life Roleplay**
 *Dibuat dengan standar industri agar stabil dan mudah dikelola.*
+
+
+
+**ENV FOR SCRIPT**
+*Untuk Mengatur Atau Core Inti Bot*
+```DISCORD_TOKEN=
+DB_HOST=
+DB_USER=
+DB_PASSWORD=
+DB_NAME=
+
+GUILD_ID=
+CLIENT_ID=
+ADMIN_ROLE_ID=
+
+# Channel IDs
+UCP_INFO_CH=
+UCP_PANEL_CH=
+SERVER_STATUS_CH=
+SERVER_IP_CH=
+TICKET_CH=
+
+# Constants
+SERVER_IP=
+SERVER_PORT=
+```
